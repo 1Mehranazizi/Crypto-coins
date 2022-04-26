@@ -32,14 +32,3 @@
   color: #c52d19;
   font-weight: bold;
 }
-
-@media (max-width:768px) {
-  .name {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .coinMarketCap {
-    display: none;
-  }
-}
