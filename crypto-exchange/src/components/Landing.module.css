@@ -1,0 +1,30 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.search {
+    width: 400px;
+    margin: 4rem auto;
+    display: block;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 10px;
+    outline: none;
+    box-shadow: 0 5px 20px rgba(120, 120, 120, .2);
+    color: #666;
+}
+
+.table {
+    width: 100%;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 5px 30px rgba(120, 120, 120, .2);
+    border-spacing: 2rem;
+}
+
+.headertable th {
+    color: #666;
+}

@@ -1,7 +1,10 @@
+//Components
+import Landing from "./components/Landing";
+
 function App() {
   return (
     <div>
-      test
+      <Landing />
     </div>
   );
 }
